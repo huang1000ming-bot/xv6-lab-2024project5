@@ -130,11 +130,6 @@ nettest dns        # DNS 查询测试
 - RFC 826 - An Ethernet Address Resolution Protocol
 - Intel E1000 网卡驱动文档
 
-## 作者信息
-
-- **实验者**：[你的姓名]
-- **完成日期**：2026-01-11
-- **指导教师**：[教师姓名]
 
 ## 许可证
 
